@@ -1,1 +1,1 @@
-『RubyOnRailsチュートリアル』で作成したToyアプリです。
+『Ruby on Railsチュートリアル』で作成したToyアプリです。
